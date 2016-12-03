@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![avatar](01.PNG)
 
 # 張小米
 A Nintendo Character
