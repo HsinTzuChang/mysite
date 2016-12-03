@@ -4,8 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
-
+# 張小米
 A Nintendo Character
 
 - - -
